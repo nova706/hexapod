@@ -1,7 +1,6 @@
 #include "HexJoint.h"
 
 HexJoint::HexJoint() {
-  
 }
 
 void HexJoint::begin(int servoNum, bool vertical, bool invert) {
